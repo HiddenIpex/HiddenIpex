@@ -1,16 +1,17 @@
-### Hi there 👋
+**Hi there!**
 
-<!--
-**HiddenIpex/HiddenIpex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*My name is Lee and I'm a 15 year old Developer. I founded **The Hidden Studios** and it is a project I am very satisfied with. Thank you for reading my profile and if you wish to see more info on me, read below:*
 
-Here are some ideas to get you started:
+[Twitter - @hiddenstudios2](https://twitter.com/hiddenstudios2)<br>
+[Discord Server - The Hidden Studios](https://discord.gg/n3pJ7fg)<br>
+[YouTube Channel - HiddenIpex](https://www.youtube.com/channel/UCNMXD_wawsOh5N4gpmqX74w?view_as=subscriber)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I code in the following languages:
+
+ - HTML
+ - CSS
+ - JavaScript
+ 
+
+![enter image description here](https://github-readme-stats.vercel.app/api?username=hiddenipex&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
